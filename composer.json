@@ -1,5 +1,5 @@
 {
-  "name": "damianopetrungaro/php-commitizen",
+  "name": "gauravgoyal/php-commitizen",
   "description": "Help writing Git commit following conventional commit specs",
   "keywords": [
     "git",
